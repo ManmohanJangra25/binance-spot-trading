@@ -1,0 +1,7 @@
+.main_header{
+    background-color: var(--background-sub);
+    height: 44px;
+    max-height: 44px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
